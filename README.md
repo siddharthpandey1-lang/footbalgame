@@ -6,3 +6,5 @@
 # now i am writing it on github , the website
 
 #his brother is very flunt in english
+
+my uncle is teaching me coding in github and vs code
