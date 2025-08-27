@@ -10,3 +10,9 @@
 my uncle is teaching me coding in github and vs code
 
 my best freind is a footballer
+
+now this is my third week in github
+
+github is fun 
+
+git hub is intersting
